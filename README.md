@@ -4,10 +4,10 @@ Online Convenient Store Website using C#, ASP.NET, Entity Framework, SQL Server
 <br/><br/>
 2 Open Visual Studio 2017 or above
 2.1. Open App.config, replace selected part with your server name <br/><br/>
-![Connect to Database](https://github.com/DinhSonHai/bookstore-manager/blob/master/installation-image/editDataSource.png)
+![Connect to Database](https://github.com/DinhSonHai/convenient-store/blob/master/ConvenientStore/Data/images/appConfig.png)
 <br/><br/>
 2.2. Open web.config, replace selected part with your server name <br/><br/>
-![Connect for Report Feature](https://github.com/DinhSonHai/bookstore-manager/blob/master/installation-image/editDataSourceForReport.PNG)
+![Connect for Report Feature](https://github.com/DinhSonHai/convenient-store/blob/master/ConvenientStore/Data/images/webConfig.png)
 <br/><br/>
 Sample Account to login to application:
 * administrator: admin - Password123
