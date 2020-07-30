@@ -1,5 +1,5 @@
 Online Convenient Store Website using C#, ASP.NET, Entity Framework, SQL Server <br/>
-1 Open SQL Server 2008 or above, save your server name, open file ConvenientStore.sql, select all text and click execute to create Database
+1 Open SQL Server 2008 or above, save your server name, open file ConvenientStore.sql, select all text and click execute to create Database<br/><br/>
 ![Server name](https://github.com/DinhSonHai/bookstore-manager/blob/master/installation-image/serverName.png)
 <br/><br/>
 2 Open Visual Studio 2017 or above <br/>
