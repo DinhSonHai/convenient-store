@@ -1,0 +1,942 @@
+C:\Users\Dinh Son Hai\Desktop\ConvenientStore\Models\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Users\Dinh Son Hai\Desktop\ConvenientStore\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\Dinh Son Hai\Desktop\ConvenientStore\Models\bin\Debug\Models.dll.config
+C:\Users\Dinh Son Hai\Desktop\ConvenientStore\Models\bin\Debug\Models.dll
+C:\Users\Dinh Son Hai\Desktop\ConvenientStore\Models\bin\Debug\Models.pdb
+C:\Users\Dinh Son Hai\Desktop\ConvenientStore\Models\bin\Debug\EntityFramework.dll
+C:\Users\Dinh Son Hai\Desktop\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dinh Son Hai\Desktop\ConvenientStore\Models\bin\Debug\EntityFramework.xml
+C:\Users\Dinh Son Hai\Desktop\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dinh Son Hai\Desktop\ConvenientStore\Models\obj\Debug\Models.csproj.CopyComplete
+C:\Users\Dinh Son Hai\Desktop\ConvenientStore\Models\obj\Debug\Models.dll
+C:\Users\Dinh Son Hai\Desktop\ConvenientStore\Models\obj\Debug\Models.pdb
+C:\Users\Dinh Son Hai\Desktop\ConvenientStore\Models\bin\Debug\PagedList.dll
+C:\Users\Dinh Son Hai\Desktop\ConvenientStore\Models\bin\Debug\PagedList.xml
+D:\Process\121019-Night\ConvenientStore\Models\bin\Debug\Models.dll.config
+D:\Process\121019-Night\ConvenientStore\Models\bin\Debug\Models.dll
+D:\Process\121019-Night\ConvenientStore\Models\bin\Debug\Models.pdb
+D:\Process\121019-Night\ConvenientStore\Models\bin\Debug\EntityFramework.dll
+D:\Process\121019-Night\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Process\121019-Night\ConvenientStore\Models\bin\Debug\PagedList.dll
+D:\Process\121019-Night\ConvenientStore\Models\bin\Debug\EntityFramework.xml
+D:\Process\121019-Night\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Process\121019-Night\ConvenientStore\Models\bin\Debug\PagedList.xml
+D:\Process\121019-Night\ConvenientStore\Models\obj\Debug\Models.csprojAssemblyReference.cache
+D:\Process\121019-Night\ConvenientStore\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\Process\121019-Night\ConvenientStore\Models\obj\Debug\Models.csproj.CopyComplete
+D:\Process\121019-Night\ConvenientStore\Models\obj\Debug\Models.dll
+D:\Process\121019-Night\ConvenientStore\Models\obj\Debug\Models.pdb
+C:\Users\Dinh Son Hai\Desktop\ConvenientStore\Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Dinh Son Hai\Desktop\ConvenientStore\Models\bin\Debug\System.Web.Helpers.dll
+C:\Users\Dinh Son Hai\Desktop\ConvenientStore\Models\bin\Debug\System.Web.Mvc.dll
+C:\Users\Dinh Son Hai\Desktop\ConvenientStore\Models\bin\Debug\System.Web.Razor.dll
+C:\Users\Dinh Son Hai\Desktop\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Dinh Son Hai\Desktop\ConvenientStore\Models\bin\Debug\System.Web.WebPages.dll
+C:\Users\Dinh Son Hai\Desktop\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Dinh Son Hai\Desktop\ConvenientStore\Models\bin\Debug\System.Web.Helpers.xml
+C:\Users\Dinh Son Hai\Desktop\ConvenientStore\Models\bin\Debug\System.Web.Mvc.xml
+C:\Users\Dinh Son Hai\Desktop\ConvenientStore\Models\bin\Debug\System.Web.Razor.xml
+C:\Users\Dinh Son Hai\Desktop\ConvenientStore\Models\bin\Debug\System.Web.WebPages.xml
+C:\Users\Dinh Son Hai\Desktop\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Dinh Son Hai\Desktop\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Process\301019\ConvenientStore\Models\bin\Debug\Models.dll.config
+D:\Process\301019\ConvenientStore\Models\bin\Debug\Models.dll
+D:\Process\301019\ConvenientStore\Models\bin\Debug\Models.pdb
+D:\Process\301019\ConvenientStore\Models\bin\Debug\EntityFramework.dll
+D:\Process\301019\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Process\301019\ConvenientStore\Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Process\301019\ConvenientStore\Models\bin\Debug\PagedList.dll
+D:\Process\301019\ConvenientStore\Models\bin\Debug\System.Web.Helpers.dll
+D:\Process\301019\ConvenientStore\Models\bin\Debug\System.Web.Mvc.dll
+D:\Process\301019\ConvenientStore\Models\bin\Debug\System.Web.Razor.dll
+D:\Process\301019\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Process\301019\ConvenientStore\Models\bin\Debug\System.Web.WebPages.dll
+D:\Process\301019\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Process\301019\ConvenientStore\Models\bin\Debug\EntityFramework.xml
+D:\Process\301019\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Process\301019\ConvenientStore\Models\bin\Debug\PagedList.xml
+D:\Process\301019\ConvenientStore\Models\bin\Debug\System.Web.Helpers.xml
+D:\Process\301019\ConvenientStore\Models\bin\Debug\System.Web.Mvc.xml
+D:\Process\301019\ConvenientStore\Models\bin\Debug\System.Web.Razor.xml
+D:\Process\301019\ConvenientStore\Models\bin\Debug\System.Web.WebPages.xml
+D:\Process\301019\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Process\301019\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Process\301019\ConvenientStore\Models\obj\Debug\Models.csprojAssemblyReference.cache
+D:\Process\301019\ConvenientStore\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\Process\301019\ConvenientStore\Models\obj\Debug\Models.csproj.CopyComplete
+D:\Process\301019\ConvenientStore\Models\obj\Debug\Models.dll
+D:\Process\301019\ConvenientStore\Models\obj\Debug\Models.pdb
+D:\Process\301019\ConvenientStore\Models\bin\Debug\Common.dll
+D:\Process\301019\ConvenientStore\Models\bin\Debug\Common.pdb
+C:\Users\Dinh Son Hai\Desktop\ConvenientStore\Models\bin\Debug\Common.dll
+C:\Users\Dinh Son Hai\Desktop\ConvenientStore\Models\bin\Debug\Common.pdb
+D:\Process\0111192\New folder\ConvenientStore\Models\bin\Debug\Models.dll.config
+D:\Process\0111192\New folder\ConvenientStore\Models\bin\Debug\Models.dll
+D:\Process\0111192\New folder\ConvenientStore\Models\bin\Debug\Models.pdb
+D:\Process\0111192\New folder\ConvenientStore\Models\bin\Debug\Common.dll
+D:\Process\0111192\New folder\ConvenientStore\Models\bin\Debug\EntityFramework.dll
+D:\Process\0111192\New folder\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Process\0111192\New folder\ConvenientStore\Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Process\0111192\New folder\ConvenientStore\Models\bin\Debug\PagedList.dll
+D:\Process\0111192\New folder\ConvenientStore\Models\bin\Debug\System.Web.Helpers.dll
+D:\Process\0111192\New folder\ConvenientStore\Models\bin\Debug\System.Web.Mvc.dll
+D:\Process\0111192\New folder\ConvenientStore\Models\bin\Debug\System.Web.Razor.dll
+D:\Process\0111192\New folder\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Process\0111192\New folder\ConvenientStore\Models\bin\Debug\System.Web.WebPages.dll
+D:\Process\0111192\New folder\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Process\0111192\New folder\ConvenientStore\Models\bin\Debug\Common.pdb
+D:\Process\0111192\New folder\ConvenientStore\Models\bin\Debug\EntityFramework.xml
+D:\Process\0111192\New folder\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Process\0111192\New folder\ConvenientStore\Models\bin\Debug\PagedList.xml
+D:\Process\0111192\New folder\ConvenientStore\Models\bin\Debug\System.Web.Helpers.xml
+D:\Process\0111192\New folder\ConvenientStore\Models\bin\Debug\System.Web.Mvc.xml
+D:\Process\0111192\New folder\ConvenientStore\Models\bin\Debug\System.Web.Razor.xml
+D:\Process\0111192\New folder\ConvenientStore\Models\bin\Debug\System.Web.WebPages.xml
+D:\Process\0111192\New folder\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Process\0111192\New folder\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Process\0111192\New folder\ConvenientStore\Models\obj\Debug\Models.csprojAssemblyReference.cache
+D:\Process\0111192\New folder\ConvenientStore\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\Process\0111192\New folder\ConvenientStore\Models\obj\Debug\Models.csproj.CopyComplete
+D:\Process\0111192\New folder\ConvenientStore\Models\obj\Debug\Models.dll
+D:\Process\0111192\New folder\ConvenientStore\Models\obj\Debug\Models.pdb
+D:\Process\031119\ConvenientStore\Models\bin\Debug\Models.dll.config
+D:\Process\031119\ConvenientStore\Models\bin\Debug\Models.dll
+D:\Process\031119\ConvenientStore\Models\bin\Debug\Models.pdb
+D:\Process\031119\ConvenientStore\Models\bin\Debug\Common.dll
+D:\Process\031119\ConvenientStore\Models\bin\Debug\EntityFramework.dll
+D:\Process\031119\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Process\031119\ConvenientStore\Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Process\031119\ConvenientStore\Models\bin\Debug\PagedList.dll
+D:\Process\031119\ConvenientStore\Models\bin\Debug\System.Web.Helpers.dll
+D:\Process\031119\ConvenientStore\Models\bin\Debug\System.Web.Mvc.dll
+D:\Process\031119\ConvenientStore\Models\bin\Debug\System.Web.Razor.dll
+D:\Process\031119\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Process\031119\ConvenientStore\Models\bin\Debug\System.Web.WebPages.dll
+D:\Process\031119\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Process\031119\ConvenientStore\Models\bin\Debug\Common.pdb
+D:\Process\031119\ConvenientStore\Models\bin\Debug\EntityFramework.xml
+D:\Process\031119\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Process\031119\ConvenientStore\Models\bin\Debug\PagedList.xml
+D:\Process\031119\ConvenientStore\Models\bin\Debug\System.Web.Helpers.xml
+D:\Process\031119\ConvenientStore\Models\bin\Debug\System.Web.Mvc.xml
+D:\Process\031119\ConvenientStore\Models\bin\Debug\System.Web.Razor.xml
+D:\Process\031119\ConvenientStore\Models\bin\Debug\System.Web.WebPages.xml
+D:\Process\031119\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Process\031119\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Process\031119\ConvenientStore\Models\obj\Debug\Models.csprojAssemblyReference.cache
+D:\Process\031119\ConvenientStore\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\Process\031119\ConvenientStore\Models\obj\Debug\Models.csproj.CopyComplete
+D:\Process\031119\ConvenientStore\Models\obj\Debug\Models.dll
+D:\Process\031119\ConvenientStore\Models\obj\Debug\Models.pdb
+D:\Process\0311192\ConvenientStore\Models\bin\Debug\Models.dll.config
+D:\Process\0311192\ConvenientStore\Models\bin\Debug\Models.dll
+D:\Process\0311192\ConvenientStore\Models\bin\Debug\Models.pdb
+D:\Process\0311192\ConvenientStore\Models\bin\Debug\Common.dll
+D:\Process\0311192\ConvenientStore\Models\bin\Debug\EntityFramework.dll
+D:\Process\0311192\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Process\0311192\ConvenientStore\Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Process\0311192\ConvenientStore\Models\bin\Debug\PagedList.dll
+D:\Process\0311192\ConvenientStore\Models\bin\Debug\System.Web.Helpers.dll
+D:\Process\0311192\ConvenientStore\Models\bin\Debug\System.Web.Mvc.dll
+D:\Process\0311192\ConvenientStore\Models\bin\Debug\System.Web.Razor.dll
+D:\Process\0311192\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Process\0311192\ConvenientStore\Models\bin\Debug\System.Web.WebPages.dll
+D:\Process\0311192\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Process\0311192\ConvenientStore\Models\bin\Debug\Common.pdb
+D:\Process\0311192\ConvenientStore\Models\bin\Debug\EntityFramework.xml
+D:\Process\0311192\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Process\0311192\ConvenientStore\Models\bin\Debug\PagedList.xml
+D:\Process\0311192\ConvenientStore\Models\bin\Debug\System.Web.Helpers.xml
+D:\Process\0311192\ConvenientStore\Models\bin\Debug\System.Web.Mvc.xml
+D:\Process\0311192\ConvenientStore\Models\bin\Debug\System.Web.Razor.xml
+D:\Process\0311192\ConvenientStore\Models\bin\Debug\System.Web.WebPages.xml
+D:\Process\0311192\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Process\0311192\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Process\0311192\ConvenientStore\Models\obj\Debug\Models.csprojAssemblyReference.cache
+D:\Process\0311192\ConvenientStore\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\Process\0311192\ConvenientStore\Models\obj\Debug\Models.csproj.CopyComplete
+D:\Process\0311192\ConvenientStore\Models\obj\Debug\Models.dll
+D:\Process\0311192\ConvenientStore\Models\obj\Debug\Models.pdb
+D:\Process\061119\ConvenientStore\Models\bin\Debug\Models.dll.config
+D:\Process\061119\ConvenientStore\Models\bin\Debug\Models.dll
+D:\Process\061119\ConvenientStore\Models\bin\Debug\Models.pdb
+D:\Process\061119\ConvenientStore\Models\bin\Debug\Common.dll
+D:\Process\061119\ConvenientStore\Models\bin\Debug\EntityFramework.dll
+D:\Process\061119\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Process\061119\ConvenientStore\Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Process\061119\ConvenientStore\Models\bin\Debug\PagedList.dll
+D:\Process\061119\ConvenientStore\Models\bin\Debug\System.Web.Helpers.dll
+D:\Process\061119\ConvenientStore\Models\bin\Debug\System.Web.Mvc.dll
+D:\Process\061119\ConvenientStore\Models\bin\Debug\System.Web.Razor.dll
+D:\Process\061119\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Process\061119\ConvenientStore\Models\bin\Debug\System.Web.WebPages.dll
+D:\Process\061119\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Process\061119\ConvenientStore\Models\bin\Debug\Common.pdb
+D:\Process\061119\ConvenientStore\Models\bin\Debug\EntityFramework.xml
+D:\Process\061119\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Process\061119\ConvenientStore\Models\bin\Debug\PagedList.xml
+D:\Process\061119\ConvenientStore\Models\bin\Debug\System.Web.Helpers.xml
+D:\Process\061119\ConvenientStore\Models\bin\Debug\System.Web.Mvc.xml
+D:\Process\061119\ConvenientStore\Models\bin\Debug\System.Web.Razor.xml
+D:\Process\061119\ConvenientStore\Models\bin\Debug\System.Web.WebPages.xml
+D:\Process\061119\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Process\061119\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Process\061119\ConvenientStore\Models\obj\Debug\Models.csprojAssemblyReference.cache
+D:\Process\061119\ConvenientStore\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\Process\061119\ConvenientStore\Models\obj\Debug\Models.csproj.CopyComplete
+D:\Process\061119\ConvenientStore\Models\obj\Debug\Models.dll
+D:\Process\061119\ConvenientStore\Models\obj\Debug\Models.pdb
+D:\Process\0611191\ConvenientStore\Models\bin\Debug\Models.dll.config
+D:\Process\0611191\ConvenientStore\Models\bin\Debug\Models.dll
+D:\Process\0611191\ConvenientStore\Models\bin\Debug\Models.pdb
+D:\Process\0611191\ConvenientStore\Models\bin\Debug\Common.dll
+D:\Process\0611191\ConvenientStore\Models\bin\Debug\EntityFramework.dll
+D:\Process\0611191\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Process\0611191\ConvenientStore\Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Process\0611191\ConvenientStore\Models\bin\Debug\PagedList.dll
+D:\Process\0611191\ConvenientStore\Models\bin\Debug\System.Web.Helpers.dll
+D:\Process\0611191\ConvenientStore\Models\bin\Debug\System.Web.Mvc.dll
+D:\Process\0611191\ConvenientStore\Models\bin\Debug\System.Web.Razor.dll
+D:\Process\0611191\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Process\0611191\ConvenientStore\Models\bin\Debug\System.Web.WebPages.dll
+D:\Process\0611191\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Process\0611191\ConvenientStore\Models\bin\Debug\Common.pdb
+D:\Process\0611191\ConvenientStore\Models\bin\Debug\EntityFramework.xml
+D:\Process\0611191\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Process\0611191\ConvenientStore\Models\bin\Debug\PagedList.xml
+D:\Process\0611191\ConvenientStore\Models\bin\Debug\System.Web.Helpers.xml
+D:\Process\0611191\ConvenientStore\Models\bin\Debug\System.Web.Mvc.xml
+D:\Process\0611191\ConvenientStore\Models\bin\Debug\System.Web.Razor.xml
+D:\Process\0611191\ConvenientStore\Models\bin\Debug\System.Web.WebPages.xml
+D:\Process\0611191\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Process\0611191\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Process\0611191\ConvenientStore\Models\obj\Debug\Models.csprojAssemblyReference.cache
+D:\Process\0611191\ConvenientStore\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\Process\0611191\ConvenientStore\Models\obj\Debug\Models.csproj.CopyComplete
+D:\Process\0611191\ConvenientStore\Models\obj\Debug\Models.dll
+D:\Process\0611191\ConvenientStore\Models\obj\Debug\Models.pdb
+D:\Process\091119\ConvenientStore\Models\bin\Debug\Models.dll.config
+D:\Process\091119\ConvenientStore\Models\bin\Debug\Models.dll
+D:\Process\091119\ConvenientStore\Models\bin\Debug\Models.pdb
+D:\Process\091119\ConvenientStore\Models\bin\Debug\Common.dll
+D:\Process\091119\ConvenientStore\Models\bin\Debug\EntityFramework.dll
+D:\Process\091119\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Process\091119\ConvenientStore\Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Process\091119\ConvenientStore\Models\bin\Debug\PagedList.dll
+D:\Process\091119\ConvenientStore\Models\bin\Debug\System.Web.Helpers.dll
+D:\Process\091119\ConvenientStore\Models\bin\Debug\System.Web.Mvc.dll
+D:\Process\091119\ConvenientStore\Models\bin\Debug\System.Web.Razor.dll
+D:\Process\091119\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Process\091119\ConvenientStore\Models\bin\Debug\System.Web.WebPages.dll
+D:\Process\091119\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Process\091119\ConvenientStore\Models\bin\Debug\Common.pdb
+D:\Process\091119\ConvenientStore\Models\bin\Debug\EntityFramework.xml
+D:\Process\091119\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Process\091119\ConvenientStore\Models\bin\Debug\PagedList.xml
+D:\Process\091119\ConvenientStore\Models\bin\Debug\System.Web.Helpers.xml
+D:\Process\091119\ConvenientStore\Models\bin\Debug\System.Web.Mvc.xml
+D:\Process\091119\ConvenientStore\Models\bin\Debug\System.Web.Razor.xml
+D:\Process\091119\ConvenientStore\Models\bin\Debug\System.Web.WebPages.xml
+D:\Process\091119\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Process\091119\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Process\091119\ConvenientStore\Models\obj\Debug\Models.csprojAssemblyReference.cache
+D:\Process\091119\ConvenientStore\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\Process\091119\ConvenientStore\Models\obj\Debug\Models.csproj.CopyComplete
+D:\Process\091119\ConvenientStore\Models\obj\Debug\Models.dll
+D:\Process\091119\ConvenientStore\Models\obj\Debug\Models.pdb
+D:\Process\091119-Night\ConvenientStore\Models\bin\Debug\Models.dll.config
+D:\Process\091119-Night\ConvenientStore\Models\bin\Debug\Models.dll
+D:\Process\091119-Night\ConvenientStore\Models\bin\Debug\Models.pdb
+D:\Process\091119-Night\ConvenientStore\Models\bin\Debug\Common.dll
+D:\Process\091119-Night\ConvenientStore\Models\bin\Debug\EntityFramework.dll
+D:\Process\091119-Night\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Process\091119-Night\ConvenientStore\Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Process\091119-Night\ConvenientStore\Models\bin\Debug\PagedList.dll
+D:\Process\091119-Night\ConvenientStore\Models\bin\Debug\System.Web.Helpers.dll
+D:\Process\091119-Night\ConvenientStore\Models\bin\Debug\System.Web.Mvc.dll
+D:\Process\091119-Night\ConvenientStore\Models\bin\Debug\System.Web.Razor.dll
+D:\Process\091119-Night\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Process\091119-Night\ConvenientStore\Models\bin\Debug\System.Web.WebPages.dll
+D:\Process\091119-Night\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Process\091119-Night\ConvenientStore\Models\bin\Debug\Common.pdb
+D:\Process\091119-Night\ConvenientStore\Models\bin\Debug\EntityFramework.xml
+D:\Process\091119-Night\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Process\091119-Night\ConvenientStore\Models\bin\Debug\PagedList.xml
+D:\Process\091119-Night\ConvenientStore\Models\bin\Debug\System.Web.Helpers.xml
+D:\Process\091119-Night\ConvenientStore\Models\bin\Debug\System.Web.Mvc.xml
+D:\Process\091119-Night\ConvenientStore\Models\bin\Debug\System.Web.Razor.xml
+D:\Process\091119-Night\ConvenientStore\Models\bin\Debug\System.Web.WebPages.xml
+D:\Process\091119-Night\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Process\091119-Night\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Process\091119-Night\ConvenientStore\Models\obj\Debug\Models.csprojAssemblyReference.cache
+D:\Process\091119-Night\ConvenientStore\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\Process\091119-Night\ConvenientStore\Models\obj\Debug\Models.csproj.CopyComplete
+D:\Process\091119-Night\ConvenientStore\Models\obj\Debug\Models.dll
+D:\Process\091119-Night\ConvenientStore\Models\obj\Debug\Models.pdb
+D:\Process\1011191\ConvenientStore\Models\bin\Debug\Models.dll.config
+D:\Process\1011191\ConvenientStore\Models\bin\Debug\Models.dll
+D:\Process\1011191\ConvenientStore\Models\bin\Debug\Models.pdb
+D:\Process\1011191\ConvenientStore\Models\bin\Debug\Common.dll
+D:\Process\1011191\ConvenientStore\Models\bin\Debug\EntityFramework.dll
+D:\Process\1011191\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Process\1011191\ConvenientStore\Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Process\1011191\ConvenientStore\Models\bin\Debug\PagedList.dll
+D:\Process\1011191\ConvenientStore\Models\bin\Debug\System.Web.Helpers.dll
+D:\Process\1011191\ConvenientStore\Models\bin\Debug\System.Web.Mvc.dll
+D:\Process\1011191\ConvenientStore\Models\bin\Debug\System.Web.Razor.dll
+D:\Process\1011191\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Process\1011191\ConvenientStore\Models\bin\Debug\System.Web.WebPages.dll
+D:\Process\1011191\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Process\1011191\ConvenientStore\Models\bin\Debug\Common.pdb
+D:\Process\1011191\ConvenientStore\Models\bin\Debug\EntityFramework.xml
+D:\Process\1011191\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Process\1011191\ConvenientStore\Models\bin\Debug\PagedList.xml
+D:\Process\1011191\ConvenientStore\Models\bin\Debug\System.Web.Helpers.xml
+D:\Process\1011191\ConvenientStore\Models\bin\Debug\System.Web.Mvc.xml
+D:\Process\1011191\ConvenientStore\Models\bin\Debug\System.Web.Razor.xml
+D:\Process\1011191\ConvenientStore\Models\bin\Debug\System.Web.WebPages.xml
+D:\Process\1011191\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Process\1011191\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Process\1011191\ConvenientStore\Models\obj\Debug\Models.csprojAssemblyReference.cache
+D:\Process\1011191\ConvenientStore\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\Process\1011191\ConvenientStore\Models\obj\Debug\Models.csproj.CopyComplete
+D:\Process\1011191\ConvenientStore\Models\obj\Debug\Models.dll
+D:\Process\1011191\ConvenientStore\Models\obj\Debug\Models.pdb
+D:\Process\1011192\ConvenientStore\Models\bin\Debug\Models.dll.config
+D:\Process\1011192\ConvenientStore\Models\bin\Debug\Models.dll
+D:\Process\1011192\ConvenientStore\Models\bin\Debug\Models.pdb
+D:\Process\1011192\ConvenientStore\Models\bin\Debug\Common.dll
+D:\Process\1011192\ConvenientStore\Models\bin\Debug\EntityFramework.dll
+D:\Process\1011192\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Process\1011192\ConvenientStore\Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Process\1011192\ConvenientStore\Models\bin\Debug\PagedList.dll
+D:\Process\1011192\ConvenientStore\Models\bin\Debug\System.Web.Helpers.dll
+D:\Process\1011192\ConvenientStore\Models\bin\Debug\System.Web.Mvc.dll
+D:\Process\1011192\ConvenientStore\Models\bin\Debug\System.Web.Razor.dll
+D:\Process\1011192\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Process\1011192\ConvenientStore\Models\bin\Debug\System.Web.WebPages.dll
+D:\Process\1011192\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Process\1011192\ConvenientStore\Models\bin\Debug\Common.pdb
+D:\Process\1011192\ConvenientStore\Models\bin\Debug\EntityFramework.xml
+D:\Process\1011192\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Process\1011192\ConvenientStore\Models\bin\Debug\PagedList.xml
+D:\Process\1011192\ConvenientStore\Models\bin\Debug\System.Web.Helpers.xml
+D:\Process\1011192\ConvenientStore\Models\bin\Debug\System.Web.Mvc.xml
+D:\Process\1011192\ConvenientStore\Models\bin\Debug\System.Web.Razor.xml
+D:\Process\1011192\ConvenientStore\Models\bin\Debug\System.Web.WebPages.xml
+D:\Process\1011192\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Process\1011192\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Process\1011192\ConvenientStore\Models\obj\Debug\Models.csprojAssemblyReference.cache
+D:\Process\1011192\ConvenientStore\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\Process\1011192\ConvenientStore\Models\obj\Debug\Models.csproj.CopyComplete
+D:\Process\1011192\ConvenientStore\Models\obj\Debug\Models.dll
+D:\Process\1011192\ConvenientStore\Models\obj\Debug\Models.pdb
+D:\Process\121119\ConvenientStore\Models\bin\Debug\Models.dll.config
+D:\Process\121119\ConvenientStore\Models\bin\Debug\Models.dll
+D:\Process\121119\ConvenientStore\Models\bin\Debug\Models.pdb
+D:\Process\121119\ConvenientStore\Models\bin\Debug\Common.dll
+D:\Process\121119\ConvenientStore\Models\bin\Debug\EntityFramework.dll
+D:\Process\121119\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Process\121119\ConvenientStore\Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Process\121119\ConvenientStore\Models\bin\Debug\PagedList.dll
+D:\Process\121119\ConvenientStore\Models\bin\Debug\System.Web.Helpers.dll
+D:\Process\121119\ConvenientStore\Models\bin\Debug\System.Web.Mvc.dll
+D:\Process\121119\ConvenientStore\Models\bin\Debug\System.Web.Razor.dll
+D:\Process\121119\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Process\121119\ConvenientStore\Models\bin\Debug\System.Web.WebPages.dll
+D:\Process\121119\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Process\121119\ConvenientStore\Models\bin\Debug\Common.pdb
+D:\Process\121119\ConvenientStore\Models\bin\Debug\EntityFramework.xml
+D:\Process\121119\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Process\121119\ConvenientStore\Models\bin\Debug\PagedList.xml
+D:\Process\121119\ConvenientStore\Models\bin\Debug\System.Web.Helpers.xml
+D:\Process\121119\ConvenientStore\Models\bin\Debug\System.Web.Mvc.xml
+D:\Process\121119\ConvenientStore\Models\bin\Debug\System.Web.Razor.xml
+D:\Process\121119\ConvenientStore\Models\bin\Debug\System.Web.WebPages.xml
+D:\Process\121119\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Process\121119\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Process\121119\ConvenientStore\Models\obj\Debug\Models.csprojAssemblyReference.cache
+D:\Process\121119\ConvenientStore\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\Process\121119\ConvenientStore\Models\obj\Debug\Models.csproj.CopyComplete
+D:\Process\121119\ConvenientStore\Models\obj\Debug\Models.dll
+D:\Process\121119\ConvenientStore\Models\obj\Debug\Models.pdb
+D:\Process\121119-Afternoon\ConvenientStore\Models\bin\Debug\Models.dll.config
+D:\Process\121119-Afternoon\ConvenientStore\Models\bin\Debug\Models.dll
+D:\Process\121119-Afternoon\ConvenientStore\Models\bin\Debug\Models.pdb
+D:\Process\121119-Afternoon\ConvenientStore\Models\bin\Debug\Common.dll
+D:\Process\121119-Afternoon\ConvenientStore\Models\bin\Debug\EntityFramework.dll
+D:\Process\121119-Afternoon\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Process\121119-Afternoon\ConvenientStore\Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Process\121119-Afternoon\ConvenientStore\Models\bin\Debug\PagedList.dll
+D:\Process\121119-Afternoon\ConvenientStore\Models\bin\Debug\System.Web.Helpers.dll
+D:\Process\121119-Afternoon\ConvenientStore\Models\bin\Debug\System.Web.Mvc.dll
+D:\Process\121119-Afternoon\ConvenientStore\Models\bin\Debug\System.Web.Razor.dll
+D:\Process\121119-Afternoon\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Process\121119-Afternoon\ConvenientStore\Models\bin\Debug\System.Web.WebPages.dll
+D:\Process\121119-Afternoon\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Process\121119-Afternoon\ConvenientStore\Models\bin\Debug\Common.pdb
+D:\Process\121119-Afternoon\ConvenientStore\Models\bin\Debug\EntityFramework.xml
+D:\Process\121119-Afternoon\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Process\121119-Afternoon\ConvenientStore\Models\bin\Debug\PagedList.xml
+D:\Process\121119-Afternoon\ConvenientStore\Models\bin\Debug\System.Web.Helpers.xml
+D:\Process\121119-Afternoon\ConvenientStore\Models\bin\Debug\System.Web.Mvc.xml
+D:\Process\121119-Afternoon\ConvenientStore\Models\bin\Debug\System.Web.Razor.xml
+D:\Process\121119-Afternoon\ConvenientStore\Models\bin\Debug\System.Web.WebPages.xml
+D:\Process\121119-Afternoon\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Process\121119-Afternoon\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Process\121119-Afternoon\ConvenientStore\Models\obj\Debug\Models.csprojAssemblyReference.cache
+D:\Process\121119-Afternoon\ConvenientStore\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\Process\121119-Afternoon\ConvenientStore\Models\obj\Debug\Models.csproj.CopyComplete
+D:\Process\121119-Afternoon\ConvenientStore\Models\obj\Debug\Models.dll
+D:\Process\121119-Afternoon\ConvenientStore\Models\obj\Debug\Models.pdb
+D:\Process\121119-Night\ConvenientStore\Models\bin\Debug\Models.dll.config
+D:\Process\121119-Night\ConvenientStore\Models\bin\Debug\Models.dll
+D:\Process\121119-Night\ConvenientStore\Models\bin\Debug\Models.pdb
+D:\Process\121119-Night\ConvenientStore\Models\bin\Debug\Common.dll
+D:\Process\121119-Night\ConvenientStore\Models\bin\Debug\EntityFramework.dll
+D:\Process\121119-Night\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Process\121119-Night\ConvenientStore\Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Process\121119-Night\ConvenientStore\Models\bin\Debug\PagedList.dll
+D:\Process\121119-Night\ConvenientStore\Models\bin\Debug\System.Web.Helpers.dll
+D:\Process\121119-Night\ConvenientStore\Models\bin\Debug\System.Web.Mvc.dll
+D:\Process\121119-Night\ConvenientStore\Models\bin\Debug\System.Web.Razor.dll
+D:\Process\121119-Night\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Process\121119-Night\ConvenientStore\Models\bin\Debug\System.Web.WebPages.dll
+D:\Process\121119-Night\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Process\121119-Night\ConvenientStore\Models\bin\Debug\Common.pdb
+D:\Process\121119-Night\ConvenientStore\Models\bin\Debug\EntityFramework.xml
+D:\Process\121119-Night\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Process\121119-Night\ConvenientStore\Models\bin\Debug\PagedList.xml
+D:\Process\121119-Night\ConvenientStore\Models\bin\Debug\System.Web.Helpers.xml
+D:\Process\121119-Night\ConvenientStore\Models\bin\Debug\System.Web.Mvc.xml
+D:\Process\121119-Night\ConvenientStore\Models\bin\Debug\System.Web.Razor.xml
+D:\Process\121119-Night\ConvenientStore\Models\bin\Debug\System.Web.WebPages.xml
+D:\Process\121119-Night\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Process\121119-Night\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Process\121119-Night\ConvenientStore\Models\obj\Debug\Models.csprojAssemblyReference.cache
+D:\Process\121119-Night\ConvenientStore\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\Process\121119-Night\ConvenientStore\Models\obj\Debug\Models.csproj.CopyComplete
+D:\Process\121119-Night\ConvenientStore\Models\obj\Debug\Models.dll
+D:\Process\121119-Night\ConvenientStore\Models\obj\Debug\Models.pdb
+D:\Process\171119\ConvenientStore\Models\bin\Debug\Models.dll.config
+D:\Process\171119\ConvenientStore\Models\bin\Debug\Models.dll
+D:\Process\171119\ConvenientStore\Models\bin\Debug\Models.pdb
+D:\Process\171119\ConvenientStore\Models\bin\Debug\Common.dll
+D:\Process\171119\ConvenientStore\Models\bin\Debug\EntityFramework.dll
+D:\Process\171119\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Process\171119\ConvenientStore\Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Process\171119\ConvenientStore\Models\bin\Debug\PagedList.dll
+D:\Process\171119\ConvenientStore\Models\bin\Debug\System.Web.Helpers.dll
+D:\Process\171119\ConvenientStore\Models\bin\Debug\System.Web.Mvc.dll
+D:\Process\171119\ConvenientStore\Models\bin\Debug\System.Web.Razor.dll
+D:\Process\171119\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Process\171119\ConvenientStore\Models\bin\Debug\System.Web.WebPages.dll
+D:\Process\171119\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Process\171119\ConvenientStore\Models\bin\Debug\Common.pdb
+D:\Process\171119\ConvenientStore\Models\bin\Debug\EntityFramework.xml
+D:\Process\171119\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Process\171119\ConvenientStore\Models\bin\Debug\PagedList.xml
+D:\Process\171119\ConvenientStore\Models\bin\Debug\System.Web.Helpers.xml
+D:\Process\171119\ConvenientStore\Models\bin\Debug\System.Web.Mvc.xml
+D:\Process\171119\ConvenientStore\Models\bin\Debug\System.Web.Razor.xml
+D:\Process\171119\ConvenientStore\Models\bin\Debug\System.Web.WebPages.xml
+D:\Process\171119\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Process\171119\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Process\171119\ConvenientStore\Models\obj\Debug\Models.csprojAssemblyReference.cache
+D:\Process\171119\ConvenientStore\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\Process\171119\ConvenientStore\Models\obj\Debug\Models.csproj.CopyComplete
+D:\Process\171119\ConvenientStore\Models\obj\Debug\Models.dll
+D:\Process\171119\ConvenientStore\Models\obj\Debug\Models.pdb
+D:\Process\1711191\ConvenientStore\Models\bin\Debug\Models.dll.config
+D:\Process\1711191\ConvenientStore\Models\bin\Debug\Models.dll
+D:\Process\1711191\ConvenientStore\Models\bin\Debug\Models.pdb
+D:\Process\1711191\ConvenientStore\Models\bin\Debug\Common.dll
+D:\Process\1711191\ConvenientStore\Models\bin\Debug\EntityFramework.dll
+D:\Process\1711191\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Process\1711191\ConvenientStore\Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Process\1711191\ConvenientStore\Models\bin\Debug\PagedList.dll
+D:\Process\1711191\ConvenientStore\Models\bin\Debug\System.Web.Helpers.dll
+D:\Process\1711191\ConvenientStore\Models\bin\Debug\System.Web.Mvc.dll
+D:\Process\1711191\ConvenientStore\Models\bin\Debug\System.Web.Razor.dll
+D:\Process\1711191\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Process\1711191\ConvenientStore\Models\bin\Debug\System.Web.WebPages.dll
+D:\Process\1711191\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Process\1711191\ConvenientStore\Models\bin\Debug\Common.pdb
+D:\Process\1711191\ConvenientStore\Models\bin\Debug\EntityFramework.xml
+D:\Process\1711191\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Process\1711191\ConvenientStore\Models\bin\Debug\PagedList.xml
+D:\Process\1711191\ConvenientStore\Models\bin\Debug\System.Web.Helpers.xml
+D:\Process\1711191\ConvenientStore\Models\bin\Debug\System.Web.Mvc.xml
+D:\Process\1711191\ConvenientStore\Models\bin\Debug\System.Web.Razor.xml
+D:\Process\1711191\ConvenientStore\Models\bin\Debug\System.Web.WebPages.xml
+D:\Process\1711191\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Process\1711191\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Process\1711191\ConvenientStore\Models\obj\Debug\Models.csprojAssemblyReference.cache
+D:\Process\1711191\ConvenientStore\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\Process\1711191\ConvenientStore\Models\obj\Debug\Models.csproj.CopyComplete
+D:\Process\1711191\ConvenientStore\Models\obj\Debug\Models.dll
+D:\Process\1711191\ConvenientStore\Models\obj\Debug\Models.pdb
+D:\Process\261119\ConvenientStore\Models\bin\Debug\Models.dll.config
+D:\Process\261119\ConvenientStore\Models\bin\Debug\Models.dll
+D:\Process\261119\ConvenientStore\Models\bin\Debug\Models.pdb
+D:\Process\261119\ConvenientStore\Models\bin\Debug\Common.dll
+D:\Process\261119\ConvenientStore\Models\bin\Debug\EntityFramework.dll
+D:\Process\261119\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Process\261119\ConvenientStore\Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Process\261119\ConvenientStore\Models\bin\Debug\PagedList.dll
+D:\Process\261119\ConvenientStore\Models\bin\Debug\System.Web.Helpers.dll
+D:\Process\261119\ConvenientStore\Models\bin\Debug\System.Web.Mvc.dll
+D:\Process\261119\ConvenientStore\Models\bin\Debug\System.Web.Razor.dll
+D:\Process\261119\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Process\261119\ConvenientStore\Models\bin\Debug\System.Web.WebPages.dll
+D:\Process\261119\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Process\261119\ConvenientStore\Models\bin\Debug\Common.pdb
+D:\Process\261119\ConvenientStore\Models\bin\Debug\EntityFramework.xml
+D:\Process\261119\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Process\261119\ConvenientStore\Models\bin\Debug\PagedList.xml
+D:\Process\261119\ConvenientStore\Models\bin\Debug\System.Web.Helpers.xml
+D:\Process\261119\ConvenientStore\Models\bin\Debug\System.Web.Mvc.xml
+D:\Process\261119\ConvenientStore\Models\bin\Debug\System.Web.Razor.xml
+D:\Process\261119\ConvenientStore\Models\bin\Debug\System.Web.WebPages.xml
+D:\Process\261119\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Process\261119\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Process\261119\ConvenientStore\Models\obj\Debug\Models.csprojAssemblyReference.cache
+D:\Process\261119\ConvenientStore\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\Process\261119\ConvenientStore\Models\obj\Debug\Models.csproj.CopyComplete
+D:\Process\261119\ConvenientStore\Models\obj\Debug\Models.dll
+D:\Process\261119\ConvenientStore\Models\obj\Debug\Models.pdb
+D:\Process\2911191\ConvenientStore\Models\bin\Debug\Models.dll.config
+D:\Process\2911191\ConvenientStore\Models\bin\Debug\Models.dll
+D:\Process\2911191\ConvenientStore\Models\bin\Debug\Models.pdb
+D:\Process\2911191\ConvenientStore\Models\bin\Debug\Common.dll
+D:\Process\2911191\ConvenientStore\Models\bin\Debug\EntityFramework.dll
+D:\Process\2911191\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Process\2911191\ConvenientStore\Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Process\2911191\ConvenientStore\Models\bin\Debug\PagedList.dll
+D:\Process\2911191\ConvenientStore\Models\bin\Debug\System.Web.Helpers.dll
+D:\Process\2911191\ConvenientStore\Models\bin\Debug\System.Web.Mvc.dll
+D:\Process\2911191\ConvenientStore\Models\bin\Debug\System.Web.Razor.dll
+D:\Process\2911191\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Process\2911191\ConvenientStore\Models\bin\Debug\System.Web.WebPages.dll
+D:\Process\2911191\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Process\2911191\ConvenientStore\Models\bin\Debug\Common.pdb
+D:\Process\2911191\ConvenientStore\Models\bin\Debug\EntityFramework.xml
+D:\Process\2911191\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Process\2911191\ConvenientStore\Models\bin\Debug\PagedList.xml
+D:\Process\2911191\ConvenientStore\Models\bin\Debug\System.Web.Helpers.xml
+D:\Process\2911191\ConvenientStore\Models\bin\Debug\System.Web.Mvc.xml
+D:\Process\2911191\ConvenientStore\Models\bin\Debug\System.Web.Razor.xml
+D:\Process\2911191\ConvenientStore\Models\bin\Debug\System.Web.WebPages.xml
+D:\Process\2911191\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Process\2911191\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Process\2911191\ConvenientStore\Models\obj\Debug\Models.csprojAssemblyReference.cache
+D:\Process\2911191\ConvenientStore\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\Process\2911191\ConvenientStore\Models\obj\Debug\Models.csproj.CopyComplete
+D:\Process\2911191\ConvenientStore\Models\obj\Debug\Models.dll
+D:\Process\2911191\ConvenientStore\Models\obj\Debug\Models.pdb
+D:\Process\291119-atm\ConvenientStore\Models\obj\Debug\Models.csprojAssemblyReference.cache
+D:\Process\291119-atm\ConvenientStore\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\Process\291119-atm\ConvenientStore\Models\obj\Debug\Models.dll
+D:\Process\291119-atm\ConvenientStore\Models\obj\Debug\Models.pdb
+D:\Process\291119-atm\ConvenientStore\Models\bin\Debug\Models.dll.config
+D:\Process\291119-atm\ConvenientStore\Models\bin\Debug\Models.dll
+D:\Process\291119-atm\ConvenientStore\Models\bin\Debug\Models.pdb
+D:\Process\291119-atm\ConvenientStore\Models\bin\Debug\Common.dll
+D:\Process\291119-atm\ConvenientStore\Models\bin\Debug\EntityFramework.dll
+D:\Process\291119-atm\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Process\291119-atm\ConvenientStore\Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Process\291119-atm\ConvenientStore\Models\bin\Debug\PagedList.dll
+D:\Process\291119-atm\ConvenientStore\Models\bin\Debug\System.Web.Helpers.dll
+D:\Process\291119-atm\ConvenientStore\Models\bin\Debug\System.Web.Mvc.dll
+D:\Process\291119-atm\ConvenientStore\Models\bin\Debug\System.Web.Razor.dll
+D:\Process\291119-atm\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Process\291119-atm\ConvenientStore\Models\bin\Debug\System.Web.WebPages.dll
+D:\Process\291119-atm\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Process\291119-atm\ConvenientStore\Models\bin\Debug\Common.pdb
+D:\Process\291119-atm\ConvenientStore\Models\bin\Debug\EntityFramework.xml
+D:\Process\291119-atm\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Process\291119-atm\ConvenientStore\Models\bin\Debug\PagedList.xml
+D:\Process\291119-atm\ConvenientStore\Models\bin\Debug\System.Web.Helpers.xml
+D:\Process\291119-atm\ConvenientStore\Models\bin\Debug\System.Web.Mvc.xml
+D:\Process\291119-atm\ConvenientStore\Models\bin\Debug\System.Web.Razor.xml
+D:\Process\291119-atm\ConvenientStore\Models\bin\Debug\System.Web.WebPages.xml
+D:\Process\291119-atm\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Process\291119-atm\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Process\291119-atm\ConvenientStore\Models\obj\Debug\Models.csproj.CopyComplete
+D:\Process\291119\ConvenientStore\Models\bin\Debug\Models.dll.config
+D:\Process\291119\ConvenientStore\Models\bin\Debug\Models.dll
+D:\Process\291119\ConvenientStore\Models\bin\Debug\Models.pdb
+D:\Process\291119\ConvenientStore\Models\bin\Debug\Common.dll
+D:\Process\291119\ConvenientStore\Models\bin\Debug\EntityFramework.dll
+D:\Process\291119\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Process\291119\ConvenientStore\Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Process\291119\ConvenientStore\Models\bin\Debug\PagedList.dll
+D:\Process\291119\ConvenientStore\Models\bin\Debug\System.Web.Helpers.dll
+D:\Process\291119\ConvenientStore\Models\bin\Debug\System.Web.Mvc.dll
+D:\Process\291119\ConvenientStore\Models\bin\Debug\System.Web.Razor.dll
+D:\Process\291119\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Process\291119\ConvenientStore\Models\bin\Debug\System.Web.WebPages.dll
+D:\Process\291119\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Process\291119\ConvenientStore\Models\bin\Debug\Common.pdb
+D:\Process\291119\ConvenientStore\Models\bin\Debug\EntityFramework.xml
+D:\Process\291119\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Process\291119\ConvenientStore\Models\bin\Debug\PagedList.xml
+D:\Process\291119\ConvenientStore\Models\bin\Debug\System.Web.Helpers.xml
+D:\Process\291119\ConvenientStore\Models\bin\Debug\System.Web.Mvc.xml
+D:\Process\291119\ConvenientStore\Models\bin\Debug\System.Web.Razor.xml
+D:\Process\291119\ConvenientStore\Models\bin\Debug\System.Web.WebPages.xml
+D:\Process\291119\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Process\291119\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Process\291119\ConvenientStore\Models\obj\Debug\Models.csprojAssemblyReference.cache
+D:\Process\291119\ConvenientStore\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\Process\291119\ConvenientStore\Models\obj\Debug\Models.csproj.CopyComplete
+D:\Process\291119\ConvenientStore\Models\obj\Debug\Models.dll
+D:\Process\291119\ConvenientStore\Models\obj\Debug\Models.pdb
+D:\Process\301119\ConvenientStore\Models\bin\Debug\Models.dll.config
+D:\Process\301119\ConvenientStore\Models\bin\Debug\Models.dll
+D:\Process\301119\ConvenientStore\Models\bin\Debug\Models.pdb
+D:\Process\301119\ConvenientStore\Models\bin\Debug\Common.dll
+D:\Process\301119\ConvenientStore\Models\bin\Debug\EntityFramework.dll
+D:\Process\301119\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Process\301119\ConvenientStore\Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Process\301119\ConvenientStore\Models\bin\Debug\PagedList.dll
+D:\Process\301119\ConvenientStore\Models\bin\Debug\System.Web.Helpers.dll
+D:\Process\301119\ConvenientStore\Models\bin\Debug\System.Web.Mvc.dll
+D:\Process\301119\ConvenientStore\Models\bin\Debug\System.Web.Razor.dll
+D:\Process\301119\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Process\301119\ConvenientStore\Models\bin\Debug\System.Web.WebPages.dll
+D:\Process\301119\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Process\301119\ConvenientStore\Models\bin\Debug\Common.pdb
+D:\Process\301119\ConvenientStore\Models\bin\Debug\EntityFramework.xml
+D:\Process\301119\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Process\301119\ConvenientStore\Models\bin\Debug\PagedList.xml
+D:\Process\301119\ConvenientStore\Models\bin\Debug\System.Web.Helpers.xml
+D:\Process\301119\ConvenientStore\Models\bin\Debug\System.Web.Mvc.xml
+D:\Process\301119\ConvenientStore\Models\bin\Debug\System.Web.Razor.xml
+D:\Process\301119\ConvenientStore\Models\bin\Debug\System.Web.WebPages.xml
+D:\Process\301119\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Process\301119\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Process\301119\ConvenientStore\Models\obj\Debug\Models.csprojAssemblyReference.cache
+D:\Process\301119\ConvenientStore\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\Process\301119\ConvenientStore\Models\obj\Debug\Models.csproj.CopyComplete
+D:\Process\301119\ConvenientStore\Models\obj\Debug\Models.dll
+D:\Process\301119\ConvenientStore\Models\obj\Debug\Models.pdb
+D:\Process\011219\ConvenientStore\Models\bin\Debug\Models.dll.config
+D:\Process\011219\ConvenientStore\Models\bin\Debug\Models.dll
+D:\Process\011219\ConvenientStore\Models\bin\Debug\Models.pdb
+D:\Process\011219\ConvenientStore\Models\bin\Debug\Common.dll
+D:\Process\011219\ConvenientStore\Models\bin\Debug\EntityFramework.dll
+D:\Process\011219\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Process\011219\ConvenientStore\Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Process\011219\ConvenientStore\Models\bin\Debug\PagedList.dll
+D:\Process\011219\ConvenientStore\Models\bin\Debug\System.Web.Helpers.dll
+D:\Process\011219\ConvenientStore\Models\bin\Debug\System.Web.Mvc.dll
+D:\Process\011219\ConvenientStore\Models\bin\Debug\System.Web.Razor.dll
+D:\Process\011219\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Process\011219\ConvenientStore\Models\bin\Debug\System.Web.WebPages.dll
+D:\Process\011219\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Process\011219\ConvenientStore\Models\bin\Debug\Common.pdb
+D:\Process\011219\ConvenientStore\Models\bin\Debug\EntityFramework.xml
+D:\Process\011219\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Process\011219\ConvenientStore\Models\bin\Debug\PagedList.xml
+D:\Process\011219\ConvenientStore\Models\bin\Debug\System.Web.Helpers.xml
+D:\Process\011219\ConvenientStore\Models\bin\Debug\System.Web.Mvc.xml
+D:\Process\011219\ConvenientStore\Models\bin\Debug\System.Web.Razor.xml
+D:\Process\011219\ConvenientStore\Models\bin\Debug\System.Web.WebPages.xml
+D:\Process\011219\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Process\011219\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Process\011219\ConvenientStore\Models\obj\Debug\Models.csprojAssemblyReference.cache
+D:\Process\011219\ConvenientStore\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\Process\011219\ConvenientStore\Models\obj\Debug\Models.csproj.CopyComplete
+D:\Process\011219\ConvenientStore\Models\obj\Debug\Models.dll
+D:\Process\011219\ConvenientStore\Models\obj\Debug\Models.pdb
+D:\Process\0112191\ConvenientStore\Models\obj\Debug\Models.csprojAssemblyReference.cache
+D:\Process\0112191\ConvenientStore\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\Process\0112191\ConvenientStore\Models\obj\Debug\Models.dll
+D:\Process\0112191\ConvenientStore\Models\obj\Debug\Models.pdb
+D:\Process\0112191\ConvenientStore\Models\bin\Debug\Models.dll.config
+D:\Process\0112191\ConvenientStore\Models\bin\Debug\Models.dll
+D:\Process\0112191\ConvenientStore\Models\bin\Debug\Models.pdb
+D:\Process\0112191\ConvenientStore\Models\bin\Debug\Common.dll
+D:\Process\0112191\ConvenientStore\Models\bin\Debug\EntityFramework.dll
+D:\Process\0112191\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Process\0112191\ConvenientStore\Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Process\0112191\ConvenientStore\Models\bin\Debug\PagedList.dll
+D:\Process\0112191\ConvenientStore\Models\bin\Debug\System.Web.Helpers.dll
+D:\Process\0112191\ConvenientStore\Models\bin\Debug\System.Web.Mvc.dll
+D:\Process\0112191\ConvenientStore\Models\bin\Debug\System.Web.Razor.dll
+D:\Process\0112191\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Process\0112191\ConvenientStore\Models\bin\Debug\System.Web.WebPages.dll
+D:\Process\0112191\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Process\0112191\ConvenientStore\Models\bin\Debug\Common.pdb
+D:\Process\0112191\ConvenientStore\Models\bin\Debug\EntityFramework.xml
+D:\Process\0112191\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Process\0112191\ConvenientStore\Models\bin\Debug\PagedList.xml
+D:\Process\0112191\ConvenientStore\Models\bin\Debug\System.Web.Helpers.xml
+D:\Process\0112191\ConvenientStore\Models\bin\Debug\System.Web.Mvc.xml
+D:\Process\0112191\ConvenientStore\Models\bin\Debug\System.Web.Razor.xml
+D:\Process\0112191\ConvenientStore\Models\bin\Debug\System.Web.WebPages.xml
+D:\Process\0112191\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Process\0112191\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Process\0112191\ConvenientStore\Models\obj\Debug\Models.csproj.CopyComplete
+D:\Process\011219-FixCSDLFinal\ConvenientStore\Models\bin\Debug\Models.dll.config
+D:\Process\011219-FixCSDLFinal\ConvenientStore\Models\bin\Debug\Models.dll
+D:\Process\011219-FixCSDLFinal\ConvenientStore\Models\bin\Debug\Models.pdb
+D:\Process\011219-FixCSDLFinal\ConvenientStore\Models\bin\Debug\Common.dll
+D:\Process\011219-FixCSDLFinal\ConvenientStore\Models\bin\Debug\EntityFramework.dll
+D:\Process\011219-FixCSDLFinal\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Process\011219-FixCSDLFinal\ConvenientStore\Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Process\011219-FixCSDLFinal\ConvenientStore\Models\bin\Debug\PagedList.dll
+D:\Process\011219-FixCSDLFinal\ConvenientStore\Models\bin\Debug\System.Web.Helpers.dll
+D:\Process\011219-FixCSDLFinal\ConvenientStore\Models\bin\Debug\System.Web.Mvc.dll
+D:\Process\011219-FixCSDLFinal\ConvenientStore\Models\bin\Debug\System.Web.Razor.dll
+D:\Process\011219-FixCSDLFinal\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Process\011219-FixCSDLFinal\ConvenientStore\Models\bin\Debug\System.Web.WebPages.dll
+D:\Process\011219-FixCSDLFinal\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Process\011219-FixCSDLFinal\ConvenientStore\Models\bin\Debug\Common.pdb
+D:\Process\011219-FixCSDLFinal\ConvenientStore\Models\bin\Debug\EntityFramework.xml
+D:\Process\011219-FixCSDLFinal\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Process\011219-FixCSDLFinal\ConvenientStore\Models\bin\Debug\PagedList.xml
+D:\Process\011219-FixCSDLFinal\ConvenientStore\Models\bin\Debug\System.Web.Helpers.xml
+D:\Process\011219-FixCSDLFinal\ConvenientStore\Models\bin\Debug\System.Web.Mvc.xml
+D:\Process\011219-FixCSDLFinal\ConvenientStore\Models\bin\Debug\System.Web.Razor.xml
+D:\Process\011219-FixCSDLFinal\ConvenientStore\Models\bin\Debug\System.Web.WebPages.xml
+D:\Process\011219-FixCSDLFinal\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Process\011219-FixCSDLFinal\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Process\011219-FixCSDLFinal\ConvenientStore\Models\obj\Debug\Models.csprojAssemblyReference.cache
+D:\Process\011219-FixCSDLFinal\ConvenientStore\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\Process\011219-FixCSDLFinal\ConvenientStore\Models\obj\Debug\Models.csproj.CopyComplete
+D:\Process\011219-FixCSDLFinal\ConvenientStore\Models\obj\Debug\Models.dll
+D:\Process\011219-FixCSDLFinal\ConvenientStore\Models\obj\Debug\Models.pdb
+D:\Process\021219\ConvenientStore\Models\obj\Debug\Models.csprojAssemblyReference.cache
+D:\Process\021219\ConvenientStore\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\Process\021219\ConvenientStore\Models\obj\Debug\Models.dll
+D:\Process\021219\ConvenientStore\Models\obj\Debug\Models.pdb
+D:\Process\021219\ConvenientStore\Models\bin\Debug\Models.dll.config
+D:\Process\021219\ConvenientStore\Models\bin\Debug\Models.dll
+D:\Process\021219\ConvenientStore\Models\bin\Debug\Models.pdb
+D:\Process\021219\ConvenientStore\Models\bin\Debug\Common.dll
+D:\Process\021219\ConvenientStore\Models\bin\Debug\EntityFramework.dll
+D:\Process\021219\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Process\021219\ConvenientStore\Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Process\021219\ConvenientStore\Models\bin\Debug\PagedList.dll
+D:\Process\021219\ConvenientStore\Models\bin\Debug\System.Web.Helpers.dll
+D:\Process\021219\ConvenientStore\Models\bin\Debug\System.Web.Mvc.dll
+D:\Process\021219\ConvenientStore\Models\bin\Debug\System.Web.Razor.dll
+D:\Process\021219\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Process\021219\ConvenientStore\Models\bin\Debug\System.Web.WebPages.dll
+D:\Process\021219\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Process\021219\ConvenientStore\Models\bin\Debug\Common.pdb
+D:\Process\021219\ConvenientStore\Models\bin\Debug\EntityFramework.xml
+D:\Process\021219\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Process\021219\ConvenientStore\Models\bin\Debug\PagedList.xml
+D:\Process\021219\ConvenientStore\Models\bin\Debug\System.Web.Helpers.xml
+D:\Process\021219\ConvenientStore\Models\bin\Debug\System.Web.Mvc.xml
+D:\Process\021219\ConvenientStore\Models\bin\Debug\System.Web.Razor.xml
+D:\Process\021219\ConvenientStore\Models\bin\Debug\System.Web.WebPages.xml
+D:\Process\021219\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Process\021219\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Process\021219\ConvenientStore\Models\obj\Debug\Models.csproj.CopyComplete
+D:\Process\0212191\ConvenientStore\Models\bin\Debug\Models.dll.config
+D:\Process\0212191\ConvenientStore\Models\bin\Debug\Models.dll
+D:\Process\0212191\ConvenientStore\Models\bin\Debug\Models.pdb
+D:\Process\0212191\ConvenientStore\Models\bin\Debug\Common.dll
+D:\Process\0212191\ConvenientStore\Models\bin\Debug\EntityFramework.dll
+D:\Process\0212191\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Process\0212191\ConvenientStore\Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Process\0212191\ConvenientStore\Models\bin\Debug\PagedList.dll
+D:\Process\0212191\ConvenientStore\Models\bin\Debug\System.Web.Helpers.dll
+D:\Process\0212191\ConvenientStore\Models\bin\Debug\System.Web.Mvc.dll
+D:\Process\0212191\ConvenientStore\Models\bin\Debug\System.Web.Razor.dll
+D:\Process\0212191\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Process\0212191\ConvenientStore\Models\bin\Debug\System.Web.WebPages.dll
+D:\Process\0212191\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Process\0212191\ConvenientStore\Models\bin\Debug\Common.pdb
+D:\Process\0212191\ConvenientStore\Models\bin\Debug\EntityFramework.xml
+D:\Process\0212191\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Process\0212191\ConvenientStore\Models\bin\Debug\PagedList.xml
+D:\Process\0212191\ConvenientStore\Models\bin\Debug\System.Web.Helpers.xml
+D:\Process\0212191\ConvenientStore\Models\bin\Debug\System.Web.Mvc.xml
+D:\Process\0212191\ConvenientStore\Models\bin\Debug\System.Web.Razor.xml
+D:\Process\0212191\ConvenientStore\Models\bin\Debug\System.Web.WebPages.xml
+D:\Process\0212191\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Process\0212191\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Process\0212191\ConvenientStore\Models\obj\Debug\Models.csprojAssemblyReference.cache
+D:\Process\0212191\ConvenientStore\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\Process\0212191\ConvenientStore\Models\obj\Debug\Models.csproj.CopyComplete
+D:\Process\0212191\ConvenientStore\Models\obj\Debug\Models.dll
+D:\Process\0212191\ConvenientStore\Models\obj\Debug\Models.pdb
+D:\Process\031219\ConvenientStore\Models\bin\Debug\Models.dll.config
+D:\Process\031219\ConvenientStore\Models\bin\Debug\Models.dll
+D:\Process\031219\ConvenientStore\Models\bin\Debug\Models.pdb
+D:\Process\031219\ConvenientStore\Models\bin\Debug\Common.dll
+D:\Process\031219\ConvenientStore\Models\bin\Debug\EntityFramework.dll
+D:\Process\031219\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Process\031219\ConvenientStore\Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Process\031219\ConvenientStore\Models\bin\Debug\PagedList.dll
+D:\Process\031219\ConvenientStore\Models\bin\Debug\System.Web.Helpers.dll
+D:\Process\031219\ConvenientStore\Models\bin\Debug\System.Web.Mvc.dll
+D:\Process\031219\ConvenientStore\Models\bin\Debug\System.Web.Razor.dll
+D:\Process\031219\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Process\031219\ConvenientStore\Models\bin\Debug\System.Web.WebPages.dll
+D:\Process\031219\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Process\031219\ConvenientStore\Models\bin\Debug\Common.pdb
+D:\Process\031219\ConvenientStore\Models\bin\Debug\EntityFramework.xml
+D:\Process\031219\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Process\031219\ConvenientStore\Models\bin\Debug\PagedList.xml
+D:\Process\031219\ConvenientStore\Models\bin\Debug\System.Web.Helpers.xml
+D:\Process\031219\ConvenientStore\Models\bin\Debug\System.Web.Mvc.xml
+D:\Process\031219\ConvenientStore\Models\bin\Debug\System.Web.Razor.xml
+D:\Process\031219\ConvenientStore\Models\bin\Debug\System.Web.WebPages.xml
+D:\Process\031219\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Process\031219\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Process\031219\ConvenientStore\Models\obj\Debug\Models.csprojAssemblyReference.cache
+D:\Process\031219\ConvenientStore\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\Process\031219\ConvenientStore\Models\obj\Debug\Models.csproj.CopyComplete
+D:\Process\031219\ConvenientStore\Models\obj\Debug\Models.dll
+D:\Process\031219\ConvenientStore\Models\obj\Debug\Models.pdb
+D:\Process\Final\ConvenientStore\Models\bin\Debug\Models.dll.config
+D:\Process\Final\ConvenientStore\Models\bin\Debug\Models.dll
+D:\Process\Final\ConvenientStore\Models\bin\Debug\Models.pdb
+D:\Process\Final\ConvenientStore\Models\bin\Debug\Common.dll
+D:\Process\Final\ConvenientStore\Models\bin\Debug\EntityFramework.dll
+D:\Process\Final\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Process\Final\ConvenientStore\Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Process\Final\ConvenientStore\Models\bin\Debug\PagedList.dll
+D:\Process\Final\ConvenientStore\Models\bin\Debug\System.Web.Helpers.dll
+D:\Process\Final\ConvenientStore\Models\bin\Debug\System.Web.Mvc.dll
+D:\Process\Final\ConvenientStore\Models\bin\Debug\System.Web.Razor.dll
+D:\Process\Final\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Process\Final\ConvenientStore\Models\bin\Debug\System.Web.WebPages.dll
+D:\Process\Final\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Process\Final\ConvenientStore\Models\bin\Debug\Common.pdb
+D:\Process\Final\ConvenientStore\Models\bin\Debug\EntityFramework.xml
+D:\Process\Final\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Process\Final\ConvenientStore\Models\bin\Debug\PagedList.xml
+D:\Process\Final\ConvenientStore\Models\bin\Debug\System.Web.Helpers.xml
+D:\Process\Final\ConvenientStore\Models\bin\Debug\System.Web.Mvc.xml
+D:\Process\Final\ConvenientStore\Models\bin\Debug\System.Web.Razor.xml
+D:\Process\Final\ConvenientStore\Models\bin\Debug\System.Web.WebPages.xml
+D:\Process\Final\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Process\Final\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Process\Final\ConvenientStore\Models\obj\Debug\Models.csprojAssemblyReference.cache
+D:\Process\Final\ConvenientStore\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\Process\Final\ConvenientStore\Models\obj\Debug\Models.csproj.CopyComplete
+D:\Process\Final\ConvenientStore\Models\obj\Debug\Models.dll
+D:\Process\Final\ConvenientStore\Models\obj\Debug\Models.pdb
+C:\Users\Dinh Son Hai\Desktop\Final\ConvenientStore\Models\bin\Debug\Models.dll.config
+C:\Users\Dinh Son Hai\Desktop\Final\ConvenientStore\Models\bin\Debug\Models.dll
+C:\Users\Dinh Son Hai\Desktop\Final\ConvenientStore\Models\bin\Debug\Models.pdb
+C:\Users\Dinh Son Hai\Desktop\Final\ConvenientStore\Models\bin\Debug\Common.dll
+C:\Users\Dinh Son Hai\Desktop\Final\ConvenientStore\Models\bin\Debug\EntityFramework.dll
+C:\Users\Dinh Son Hai\Desktop\Final\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dinh Son Hai\Desktop\Final\ConvenientStore\Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Dinh Son Hai\Desktop\Final\ConvenientStore\Models\bin\Debug\PagedList.dll
+C:\Users\Dinh Son Hai\Desktop\Final\ConvenientStore\Models\bin\Debug\System.Web.Helpers.dll
+C:\Users\Dinh Son Hai\Desktop\Final\ConvenientStore\Models\bin\Debug\System.Web.Mvc.dll
+C:\Users\Dinh Son Hai\Desktop\Final\ConvenientStore\Models\bin\Debug\System.Web.Razor.dll
+C:\Users\Dinh Son Hai\Desktop\Final\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Dinh Son Hai\Desktop\Final\ConvenientStore\Models\bin\Debug\System.Web.WebPages.dll
+C:\Users\Dinh Son Hai\Desktop\Final\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Dinh Son Hai\Desktop\Final\ConvenientStore\Models\bin\Debug\Common.pdb
+C:\Users\Dinh Son Hai\Desktop\Final\ConvenientStore\Models\bin\Debug\EntityFramework.xml
+C:\Users\Dinh Son Hai\Desktop\Final\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dinh Son Hai\Desktop\Final\ConvenientStore\Models\bin\Debug\PagedList.xml
+C:\Users\Dinh Son Hai\Desktop\Final\ConvenientStore\Models\bin\Debug\System.Web.Helpers.xml
+C:\Users\Dinh Son Hai\Desktop\Final\ConvenientStore\Models\bin\Debug\System.Web.Mvc.xml
+C:\Users\Dinh Son Hai\Desktop\Final\ConvenientStore\Models\bin\Debug\System.Web.Razor.xml
+C:\Users\Dinh Son Hai\Desktop\Final\ConvenientStore\Models\bin\Debug\System.Web.WebPages.xml
+C:\Users\Dinh Son Hai\Desktop\Final\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Dinh Son Hai\Desktop\Final\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Dinh Son Hai\Desktop\Final\ConvenientStore\Models\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Users\Dinh Son Hai\Desktop\Final\ConvenientStore\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\Dinh Son Hai\Desktop\Final\ConvenientStore\Models\obj\Debug\Models.csproj.CopyComplete
+C:\Users\Dinh Son Hai\Desktop\Final\ConvenientStore\Models\obj\Debug\Models.dll
+C:\Users\Dinh Son Hai\Desktop\Final\ConvenientStore\Models\obj\Debug\Models.pdb
+D:\Process\101219\ConvenientStore\Models\bin\Debug\Models.dll.config
+D:\Process\101219\ConvenientStore\Models\bin\Debug\Models.dll
+D:\Process\101219\ConvenientStore\Models\bin\Debug\Models.pdb
+D:\Process\101219\ConvenientStore\Models\bin\Debug\Common.dll
+D:\Process\101219\ConvenientStore\Models\bin\Debug\EntityFramework.dll
+D:\Process\101219\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Process\101219\ConvenientStore\Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Process\101219\ConvenientStore\Models\bin\Debug\PagedList.dll
+D:\Process\101219\ConvenientStore\Models\bin\Debug\System.Web.Helpers.dll
+D:\Process\101219\ConvenientStore\Models\bin\Debug\System.Web.Mvc.dll
+D:\Process\101219\ConvenientStore\Models\bin\Debug\System.Web.Razor.dll
+D:\Process\101219\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Process\101219\ConvenientStore\Models\bin\Debug\System.Web.WebPages.dll
+D:\Process\101219\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Process\101219\ConvenientStore\Models\bin\Debug\Common.pdb
+D:\Process\101219\ConvenientStore\Models\bin\Debug\EntityFramework.xml
+D:\Process\101219\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Process\101219\ConvenientStore\Models\bin\Debug\PagedList.xml
+D:\Process\101219\ConvenientStore\Models\bin\Debug\System.Web.Helpers.xml
+D:\Process\101219\ConvenientStore\Models\bin\Debug\System.Web.Mvc.xml
+D:\Process\101219\ConvenientStore\Models\bin\Debug\System.Web.Razor.xml
+D:\Process\101219\ConvenientStore\Models\bin\Debug\System.Web.WebPages.xml
+D:\Process\101219\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Process\101219\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Process\101219\ConvenientStore\Models\obj\Debug\Models.csprojAssemblyReference.cache
+D:\Process\101219\ConvenientStore\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\Process\101219\ConvenientStore\Models\obj\Debug\Models.csproj.CopyComplete
+D:\Process\101219\ConvenientStore\Models\obj\Debug\Models.dll
+D:\Process\101219\ConvenientStore\Models\obj\Debug\Models.pdb
+C:\Users\admin\Desktop\Bảo mật web - Nhóm 03\Project sau khi sửa lỗi\ConvenientStore\Models\bin\Debug\Models.dll.config
+C:\Users\admin\Desktop\Bảo mật web - Nhóm 03\Project sau khi sửa lỗi\ConvenientStore\Models\bin\Debug\Models.dll
+C:\Users\admin\Desktop\Bảo mật web - Nhóm 03\Project sau khi sửa lỗi\ConvenientStore\Models\bin\Debug\Models.pdb
+C:\Users\admin\Desktop\Bảo mật web - Nhóm 03\Project sau khi sửa lỗi\ConvenientStore\Models\bin\Debug\Common.dll
+C:\Users\admin\Desktop\Bảo mật web - Nhóm 03\Project sau khi sửa lỗi\ConvenientStore\Models\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\Bảo mật web - Nhóm 03\Project sau khi sửa lỗi\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\Bảo mật web - Nhóm 03\Project sau khi sửa lỗi\ConvenientStore\Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Desktop\Bảo mật web - Nhóm 03\Project sau khi sửa lỗi\ConvenientStore\Models\bin\Debug\PagedList.dll
+C:\Users\admin\Desktop\Bảo mật web - Nhóm 03\Project sau khi sửa lỗi\ConvenientStore\Models\bin\Debug\System.Web.Helpers.dll
+C:\Users\admin\Desktop\Bảo mật web - Nhóm 03\Project sau khi sửa lỗi\ConvenientStore\Models\bin\Debug\System.Web.Mvc.dll
+C:\Users\admin\Desktop\Bảo mật web - Nhóm 03\Project sau khi sửa lỗi\ConvenientStore\Models\bin\Debug\System.Web.Razor.dll
+C:\Users\admin\Desktop\Bảo mật web - Nhóm 03\Project sau khi sửa lỗi\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\admin\Desktop\Bảo mật web - Nhóm 03\Project sau khi sửa lỗi\ConvenientStore\Models\bin\Debug\System.Web.WebPages.dll
+C:\Users\admin\Desktop\Bảo mật web - Nhóm 03\Project sau khi sửa lỗi\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\admin\Desktop\Bảo mật web - Nhóm 03\Project sau khi sửa lỗi\ConvenientStore\Models\bin\Debug\Common.pdb
+C:\Users\admin\Desktop\Bảo mật web - Nhóm 03\Project sau khi sửa lỗi\ConvenientStore\Models\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\Bảo mật web - Nhóm 03\Project sau khi sửa lỗi\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\Bảo mật web - Nhóm 03\Project sau khi sửa lỗi\ConvenientStore\Models\bin\Debug\PagedList.xml
+C:\Users\admin\Desktop\Bảo mật web - Nhóm 03\Project sau khi sửa lỗi\ConvenientStore\Models\bin\Debug\System.Web.Helpers.xml
+C:\Users\admin\Desktop\Bảo mật web - Nhóm 03\Project sau khi sửa lỗi\ConvenientStore\Models\bin\Debug\System.Web.Mvc.xml
+C:\Users\admin\Desktop\Bảo mật web - Nhóm 03\Project sau khi sửa lỗi\ConvenientStore\Models\bin\Debug\System.Web.Razor.xml
+C:\Users\admin\Desktop\Bảo mật web - Nhóm 03\Project sau khi sửa lỗi\ConvenientStore\Models\bin\Debug\System.Web.WebPages.xml
+C:\Users\admin\Desktop\Bảo mật web - Nhóm 03\Project sau khi sửa lỗi\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\admin\Desktop\Bảo mật web - Nhóm 03\Project sau khi sửa lỗi\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\admin\Desktop\Bảo mật web - Nhóm 03\Project sau khi sửa lỗi\ConvenientStore\Models\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Bảo mật web - Nhóm 03\Project sau khi sửa lỗi\ConvenientStore\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Bảo mật web - Nhóm 03\Project sau khi sửa lỗi\ConvenientStore\Models\obj\Debug\Models.csproj.CopyComplete
+C:\Users\admin\Desktop\Bảo mật web - Nhóm 03\Project sau khi sửa lỗi\ConvenientStore\Models\obj\Debug\Models.dll
+C:\Users\admin\Desktop\Bảo mật web - Nhóm 03\Project sau khi sửa lỗi\ConvenientStore\Models\obj\Debug\Models.pdb
+D:\Project CV\ConvenientStore\Models\bin\Debug\Models.dll.config
+D:\Project CV\ConvenientStore\Models\bin\Debug\Models.dll
+D:\Project CV\ConvenientStore\Models\bin\Debug\Models.pdb
+D:\Project CV\ConvenientStore\Models\bin\Debug\Common.dll
+D:\Project CV\ConvenientStore\Models\bin\Debug\EntityFramework.dll
+D:\Project CV\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project CV\ConvenientStore\Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Project CV\ConvenientStore\Models\bin\Debug\PagedList.dll
+D:\Project CV\ConvenientStore\Models\bin\Debug\System.Web.Helpers.dll
+D:\Project CV\ConvenientStore\Models\bin\Debug\System.Web.Mvc.dll
+D:\Project CV\ConvenientStore\Models\bin\Debug\System.Web.Razor.dll
+D:\Project CV\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Project CV\ConvenientStore\Models\bin\Debug\System.Web.WebPages.dll
+D:\Project CV\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Project CV\ConvenientStore\Models\bin\Debug\Common.pdb
+D:\Project CV\ConvenientStore\Models\bin\Debug\EntityFramework.xml
+D:\Project CV\ConvenientStore\Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project CV\ConvenientStore\Models\bin\Debug\PagedList.xml
+D:\Project CV\ConvenientStore\Models\bin\Debug\System.Web.Helpers.xml
+D:\Project CV\ConvenientStore\Models\bin\Debug\System.Web.Mvc.xml
+D:\Project CV\ConvenientStore\Models\bin\Debug\System.Web.Razor.xml
+D:\Project CV\ConvenientStore\Models\bin\Debug\System.Web.WebPages.xml
+D:\Project CV\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Project CV\ConvenientStore\Models\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Project CV\ConvenientStore\Models\obj\Debug\Models.csprojAssemblyReference.cache
+D:\Project CV\ConvenientStore\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\Project CV\ConvenientStore\Models\obj\Debug\Models.csproj.CopyComplete
+D:\Project CV\ConvenientStore\Models\obj\Debug\Models.dll
+D:\Project CV\ConvenientStore\Models\obj\Debug\Models.pdb

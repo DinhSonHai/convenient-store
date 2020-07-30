@@ -1,0 +1,66 @@
+D:\Process\301019\ConvenientStore\Common\bin\Debug\Common.dll
+D:\Process\301019\ConvenientStore\Common\bin\Debug\Common.pdb
+D:\Process\301019\ConvenientStore\Common\obj\Debug\Common.csprojAssemblyReference.cache
+D:\Process\301019\ConvenientStore\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\Process\301019\ConvenientStore\Common\obj\Debug\Common.dll
+D:\Process\301019\ConvenientStore\Common\obj\Debug\Common.pdb
+D:\Process\031119\ConvenientStore\Common\bin\Debug\Common.dll
+D:\Process\031119\ConvenientStore\Common\bin\Debug\Common.pdb
+D:\Process\031119\ConvenientStore\Common\obj\Debug\Common.csprojAssemblyReference.cache
+D:\Process\031119\ConvenientStore\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\Process\031119\ConvenientStore\Common\obj\Debug\Common.dll
+D:\Process\031119\ConvenientStore\Common\obj\Debug\Common.pdb
+D:\Process\1011192\ConvenientStore\Common\bin\Debug\Common.dll
+D:\Process\1011192\ConvenientStore\Common\bin\Debug\Common.pdb
+D:\Process\1011192\ConvenientStore\Common\obj\Debug\Common.csprojAssemblyReference.cache
+D:\Process\1011192\ConvenientStore\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\Process\1011192\ConvenientStore\Common\obj\Debug\Common.dll
+D:\Process\1011192\ConvenientStore\Common\obj\Debug\Common.pdb
+D:\Process\261119\ConvenientStore\Common\bin\Debug\Common.dll
+D:\Process\261119\ConvenientStore\Common\bin\Debug\Common.pdb
+D:\Process\261119\ConvenientStore\Common\obj\Debug\Common.csprojAssemblyReference.cache
+D:\Process\261119\ConvenientStore\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\Process\261119\ConvenientStore\Common\obj\Debug\Common.dll
+D:\Process\261119\ConvenientStore\Common\obj\Debug\Common.pdb
+D:\Process\301119\ConvenientStore\Common\bin\Debug\Common.dll
+D:\Process\301119\ConvenientStore\Common\bin\Debug\Common.pdb
+D:\Process\301119\ConvenientStore\Common\obj\Debug\Common.csprojAssemblyReference.cache
+D:\Process\301119\ConvenientStore\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\Process\301119\ConvenientStore\Common\obj\Debug\Common.dll
+D:\Process\301119\ConvenientStore\Common\obj\Debug\Common.pdb
+D:\Process\011219-FixCSDLFinal\ConvenientStore\Common\bin\Debug\Common.dll
+D:\Process\011219-FixCSDLFinal\ConvenientStore\Common\bin\Debug\Common.pdb
+D:\Process\011219-FixCSDLFinal\ConvenientStore\Common\obj\Debug\Common.csprojAssemblyReference.cache
+D:\Process\011219-FixCSDLFinal\ConvenientStore\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\Process\011219-FixCSDLFinal\ConvenientStore\Common\obj\Debug\Common.dll
+D:\Process\011219-FixCSDLFinal\ConvenientStore\Common\obj\Debug\Common.pdb
+D:\Process\031219\ConvenientStore\Common\bin\Debug\Common.dll
+D:\Process\031219\ConvenientStore\Common\bin\Debug\Common.pdb
+D:\Process\031219\ConvenientStore\Common\obj\Debug\Common.csprojAssemblyReference.cache
+D:\Process\031219\ConvenientStore\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\Process\031219\ConvenientStore\Common\obj\Debug\Common.dll
+D:\Process\031219\ConvenientStore\Common\obj\Debug\Common.pdb
+D:\Process\101219\ConvenientStore\Common\bin\Debug\Common.dll
+D:\Process\101219\ConvenientStore\Common\bin\Debug\Common.pdb
+D:\Process\101219\ConvenientStore\Common\obj\Debug\Common.csprojAssemblyReference.cache
+D:\Process\101219\ConvenientStore\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\Process\101219\ConvenientStore\Common\obj\Debug\Common.dll
+D:\Process\101219\ConvenientStore\Common\obj\Debug\Common.pdb
+C:\Users\Dinh Son Hai\Desktop\ConvenientStore\Common\bin\Debug\Common.dll
+C:\Users\Dinh Son Hai\Desktop\ConvenientStore\Common\bin\Debug\Common.pdb
+C:\Users\Dinh Son Hai\Desktop\ConvenientStore\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\Dinh Son Hai\Desktop\ConvenientStore\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Dinh Son Hai\Desktop\ConvenientStore\Common\obj\Debug\Common.dll
+C:\Users\Dinh Son Hai\Desktop\ConvenientStore\Common\obj\Debug\Common.pdb
+C:\Users\admin\Desktop\Bảo mật web - Nhóm 03\Project sau khi sửa lỗi\ConvenientStore\Common\bin\Debug\Common.dll
+C:\Users\admin\Desktop\Bảo mật web - Nhóm 03\Project sau khi sửa lỗi\ConvenientStore\Common\bin\Debug\Common.pdb
+C:\Users\admin\Desktop\Bảo mật web - Nhóm 03\Project sau khi sửa lỗi\ConvenientStore\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Bảo mật web - Nhóm 03\Project sau khi sửa lỗi\ConvenientStore\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Bảo mật web - Nhóm 03\Project sau khi sửa lỗi\ConvenientStore\Common\obj\Debug\Common.dll
+C:\Users\admin\Desktop\Bảo mật web - Nhóm 03\Project sau khi sửa lỗi\ConvenientStore\Common\obj\Debug\Common.pdb
+D:\Project CV\ConvenientStore\Common\bin\Debug\Common.dll
+D:\Project CV\ConvenientStore\Common\bin\Debug\Common.pdb
+D:\Project CV\ConvenientStore\Common\obj\Debug\Common.csprojAssemblyReference.cache
+D:\Project CV\ConvenientStore\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\Project CV\ConvenientStore\Common\obj\Debug\Common.dll
+D:\Project CV\ConvenientStore\Common\obj\Debug\Common.pdb
